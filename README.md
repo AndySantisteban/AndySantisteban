@@ -6,7 +6,7 @@ Me gusta el código 💻 y el desarrollo de software 💻.
 
 Soy mejor desarrollador gracias a mi trayectoria profesional en la universidad y la educación autodidacta que tuve, gracias a ello tengo la capacidade de dar la resolución de tus problemas.
 
-🔭 Actualmente desarrollador frontend en [First Automation](https://first-automation.com/).
+🔭 Actualmente soy desarrollador frontend freelance
 
 🤝 ¡Busco colaborar en grandes proyectos! 
 
