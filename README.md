@@ -16,13 +16,18 @@ Soy mejor desarrollador gracias a mi trayectoria profesional en la universidad y
 
 ⚡ Dato curioso: Soy una persona que siempre está dispuesta a aprender nuevas cosas.
 
-📊 **ESTADISCTICAS DE LENGUAJES DE PROGRAMACIÓN**
+📊 **ESTADISTICAS DE LENGUAJES DE PROGRAMACIÓN**
 
 <a href="https://github.com/AndySantisteban" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndySantisteban&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+
 <br/>
 <br/>
+<br/>
+
+📊 **ESTADISTICAS DE ACTIVIDAD**
+
 <a href="https://github.com/AndySantisteban" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndySantisteban&show_icons=true&theme=radical" />
 </a>
@@ -30,7 +35,7 @@ Soy mejor desarrollador gracias a mi trayectoria profesional en la universidad y
 <br/>
 <br/>
 <br/>
-
+<h4> CONTÁCTAME </h4>
 <p align="center">
   <a href="http://www.andysantisteban.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.andysantisteban.com-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/andy-santisteban/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Santisteban-blue?style=flat-square&logo=linkedin"></a>
