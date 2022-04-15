@@ -23,6 +23,13 @@ I am a better developer thanks to my professional background at university and t
 <br/>
 <br/>
 
+>  ACTIVITY STATISTICS
+
+<a href="https://github.com/AndySantisteban" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndySantisteban&show_icons=true&theme=radical" />
+</a>
+<br/>
+
 > CONTACT
 
 <span>
