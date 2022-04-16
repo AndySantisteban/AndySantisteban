@@ -1,4 +1,4 @@
-# Hello developers and recruiters 👋
+# Hi developers and recruiters 👋
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="100%" height="400" />
