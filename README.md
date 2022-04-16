@@ -1,6 +1,3 @@
-> @AndySantisteban
-
-
 Hello developers and recruiters 👋
 
 I am a 👦💻 Frontend developer specialized in Web Development, eager to partiticpate in ambitious projects and new challenges.
@@ -19,18 +16,13 @@ I am a better developer thanks to my professional background at university and t
 
 ⚡ Fun fact: I am a person who is always willing to learn new things.
 
-
 <br/>
-<br/>
-
->  ACTIVITY STATISTICS
 
 <a href="https://github.com/AndySantisteban" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndySantisteban&show_icons=true&theme=radical" />
 </a>
 <br/>
-
-> CONTACT
+<br/>
 
 <span>
   <a href="http://www.andysantisteban.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.andysantisteban.com-blue?style=flat-square&logo=google-chrome"></a>
@@ -40,11 +32,6 @@ I am a better developer thanks to my professional background at university and t
 </span>
 
 <br/>
-<br/>
-
-
-> LEARNED LANGUAGES
-
 
 <span><img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/40/000000/css3.png"/>
