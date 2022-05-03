@@ -1,11 +1,5 @@
 # Hi developers and recruiters 👋
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="100%" height="300" />
-</div>
-
-
-
 I am a 👦💻 Frontend developer specialized in Web Development, eager to partiticpate in ambitious projects and new challenges.
 
 I like coding 💻 and software development 💻.
