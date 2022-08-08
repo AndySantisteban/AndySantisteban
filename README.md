@@ -1,12 +1,12 @@
 # Hi developers and recruiters 👋
 
-I am a 👦💻 Frontend developer specialized in Web Development, eager to partiticpate in ambitious projects and new challenges.
+I am a 👦💻 Web Development, eager to partiticpate in ambitious projects and new challenges.
 
 I like coding 💻 and software development 💻.
 
 I am a better developer thanks to my professional background at university and the self-taught education I had, thanks to that I have the ability to give the resolution of your problems.
 
-🔭 I am currently a frontend developer at First Automation.
+🔭 I am currently a frontend, backend & DevOps developer.
 
 🤝 I'm looking to collaborate on great projects! 
 
